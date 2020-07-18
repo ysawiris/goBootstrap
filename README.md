@@ -6,16 +6,11 @@
 
 # Usage
 
-### Clone the repo
-
-\$ git clone https://github.com/ysawiris/goBootstrap.git
-
-### Build and run the code
-
-\$ go build && ./makescrapper
-
-### To see file
-
+Clone the repo
+$ git clone https://github.com/ysawiris/goBootstrap.git
+Build and run the code
+   $ go build && ./makescrapper
+To see file
 \$ open test.txt
 
 # Technologies
